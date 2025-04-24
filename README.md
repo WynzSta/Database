@@ -1,2 +1,2 @@
 # Welcome To Profil WynZcoderX
-```Devoloper Script Deplods``
+```Devoloper Script Deplods```
