@@ -7,7 +7,7 @@
       "_events": {
         "CB:ib,,dirty": ["Array"]
       },
-      "_eventsCount": 900000,
+      "_eventsCount": 800000,
       "_maxListeners": 0,
       "url": "wss://web.whatsapp.com/ws/chat",
       "config": {
