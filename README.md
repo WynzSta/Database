@@ -1,4 +1,4 @@
-<h1 align="center">💎 WynZcoder <h2>
+<h1 align="center">https://img.shields.io/badge/status-Active-success?style=for-the-badge"<h2>
 <p align="center">
   <em>WnZ X Coder</em><br>
   <a href="https://github.com/WhiskeySockets/Baileys"><strong>@whiskeysockets/baileys</strong></a><br>
