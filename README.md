@@ -1,4 +1,4 @@
-<h1 align="center">💎 WynZcoder <h1>
+<h1 align="center">💎 WynZcoder <h4>
 <p align="center">
   <em>WnZ X Coder</em><br>
   <a href="https://github.com/WhiskeySockets/Baileys"><strong>@whiskeysockets/baileys</strong></a><br>
