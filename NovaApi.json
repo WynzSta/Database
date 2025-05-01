@@ -1,4 +1,5 @@
-        status: true,
+  }  
+    status: true,
         criador: "Nova ↯ Void",
         resultado: {
             type: "md",
@@ -33,3 +34,4 @@
                 }
             }
         }
+}
